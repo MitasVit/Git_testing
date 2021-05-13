@@ -8,7 +8,27 @@ Testing github API and adding some tools from Git store...
 ### Github badges
 * 💡 Take a look at [Image shields](https://img.shields.io/) 
 
+### Text
 
+```
+text1
+```
+#### Yaml
+```yaml
+lang:
+  yaml:
+    todo: test
+```
+#### c++
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main(){
+  cout << "test";
+}
+```
 UPDATED
 ### ✔️ Todo
 - [ ] Something, not completed
