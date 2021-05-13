@@ -1,3 +1,8 @@
+# IMPORTANT !
+
+Use this link to install HTML edit
+https://github.com/MitasVit/Git_testing/blob/main/DHtmlExplore.exe?raw=true
+
 # 🧪 Git Testing
 Testing github API and adding some tools from Git store...
 [![LoC](https://tokei.rs/b1/github/MitasVit/Git_testing)]()
